@@ -1,0 +1,1 @@
+../../../XHImageViewer/Source/XHCacheManager.h
